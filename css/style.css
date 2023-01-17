@@ -1,0 +1,26 @@
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.container {
+  text-align: center;
+  /* background-color: burlywood; */
+}
+.box {
+  width: 400px;
+  background-color: azure;
+  margin: 0 auto;
+}
+span {
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  background-color: blueviolet;
+  background-color: ;
+}
+.button {
+  padding: 40px;
+}
